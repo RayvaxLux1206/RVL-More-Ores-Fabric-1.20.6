@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "aluminium",
+  "ingredient": [
+    {
+      "item": "more-ores:racknite_pickaxe"
+    },
+    {
+      "item": "more-ores:racknite_shovel"
+    },
+    {
+      "item": "more-ores:racknite_axe"
+    },
+    {
+      "item": "more-ores:racknite_hoe"
+    },
+    {
+      "item": "more-ores:racknite_sword"
+    },
+    {
+      "item": "more-ores:racknite_helmet"
+    },
+    {
+      "item": "more-ores:racknite_chestplate"
+    },
+    {
+      "item": "more-ores:racknite_leggings"
+    },
+    {
+      "item": "more-ores:racknite_boots"
+    },
+    {
+      "item": "more-ores:racknite_raw"
+    },
+    {
+      "item": "more-ores:racknite_ore"
+    }
+  ],
+  "result": {
+    "id": "more-ores:racknite_ingot"
+  }
+}

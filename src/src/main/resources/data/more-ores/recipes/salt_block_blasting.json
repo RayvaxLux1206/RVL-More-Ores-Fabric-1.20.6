@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 700,
+  "experience": 0.1,
+  "group": "sodium",
+  "ingredient": {
+    "item": "more-ores:salt_block"
+  },
+
+  "result": {
+    "id": "more-ores:sodium_block"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "aluminium",
+  "ingredient": [
+    {
+      "item": "more-ores:soulrite_pickaxe"
+    },
+    {
+      "item": "more-ores:soulrite_shovel"
+    },
+    {
+      "item": "more-ores:soulrite_axe"
+    },
+    {
+      "item": "more-ores:soulrite_hoe"
+    },
+    {
+      "item": "more-ores:soulrite_sword"
+    },
+    {
+      "item": "more-ores:soulrite_helmet"
+    },
+    {
+      "item": "more-ores:soulrite_chestplate"
+    },
+    {
+      "item": "more-ores:soulrite_leggings"
+    },
+    {
+      "item": "more-ores:soulrite_boots"
+    },
+    {
+      "item": "more-ores:soulrite_raw"
+    },
+    {
+      "item": "more-ores:soul_sand_soulrite_ore"
+    },
+	{
+		"item": "more-ores:soul_soil_soulrite_ore"
+	}
+  ],
+
+  "result": {
+    "id": "more-ores:soulrite_ingot"
+  }
+}

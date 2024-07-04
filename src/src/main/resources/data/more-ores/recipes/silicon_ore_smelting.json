@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "aluminium",
+  "ingredient": [
+    {
+      "item": "more-ores:silicon_raw"
+    },
+    {
+      "item": "more-ores:silicon_ore"
+    },
+    {
+      "item": "more-ores:deepslate_silicon_ore"
+    }
+  ],
+
+  "result": {
+    "id": "more-ores:silicon_ingot"
+  }
+}
