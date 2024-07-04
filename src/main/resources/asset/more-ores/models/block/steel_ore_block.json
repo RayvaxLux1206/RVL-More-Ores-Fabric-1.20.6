@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "more-ores:block/steel_ore_block"
+  }
+}

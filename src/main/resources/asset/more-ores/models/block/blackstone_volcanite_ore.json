@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "more-ores:block/blackstone_top_volcanite_ore",
+    "side": "more-ores:block/blackstone_volcanite_ore"
+  }
+}
