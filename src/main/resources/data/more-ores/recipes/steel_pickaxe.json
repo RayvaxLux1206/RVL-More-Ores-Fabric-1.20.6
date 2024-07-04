@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "more-ores:steel_ingot"
+    }
+  },
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "more-ores:steel_pickaxe"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "aluminium",
+  "ingredients": [
+    {
+      "item": "more-ores:zinc_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "more-ores:zinc_ingot"
+  }
+}

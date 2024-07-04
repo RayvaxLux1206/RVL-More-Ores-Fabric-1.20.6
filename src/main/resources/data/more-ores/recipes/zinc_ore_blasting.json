@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "aluminium",
+  "ingredient": [
+    {
+      "item": "more-ores:zinc_pickaxe"
+    },
+    {
+      "item": "more-ores:zinc_shovel"
+    },
+    {
+      "item": "more-ores:zinc_axe"
+    },
+    {
+      "item": "more-ores:zinc_hoe"
+    },
+    {
+      "item": "more-ores:zinc_sword"
+    },
+    {
+      "item": "more-ores:zinc_helmet"
+    },
+    {
+      "item": "more-ores:zinc_chestplate"
+    },
+    {
+      "item": "more-ores:zinc_leggings"
+    },
+    {
+      "item": "more-ores:zinc_boots"
+    },
+    {
+      "item": "more-ores:zinc_raw"
+    },
+    {
+      "item": "more-ores:zinc_ore"
+    },
+    {
+      "item": "more-ores:deepslate_zinc_ore"
+    }
+  ],
+  "result": {
+    "id": "more-ores:zinc_ingot"
+  }
+}

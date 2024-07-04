@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "more-ores:titanium_ingot"
+    }
+  },
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "result": {
+    "count": 1,
+    "id": "more-ores:titanium_hoe"
+  },
+  "show_notification": true
+}

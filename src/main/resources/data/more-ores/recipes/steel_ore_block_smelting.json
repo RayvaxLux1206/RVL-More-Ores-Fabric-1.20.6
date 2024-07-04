@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 1400,
+  "experience": 1.0,
+  "group": "steel",
+  "ingredient": {
+    "item": "more-ores:alloy_steel_block"
+  },
+  "result": {
+    "id": "more-ores:steel_block"
+  }
+}

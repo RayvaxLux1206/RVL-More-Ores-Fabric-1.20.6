@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "more-ores:volcanite_ingot"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "more-ores:volcanite_shovel"
+  },
+  "show_notification": true
+}

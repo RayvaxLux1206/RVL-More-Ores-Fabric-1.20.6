@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "aluminium",
+  "ingredient": [
+    {
+      "item": "more-ores:titanium_pickaxe"
+    },
+    {
+      "item": "more-ores:titanium_shovel"
+    },
+    {
+      "item": "more-ores:titanium_axe"
+    },
+    {
+      "item": "more-ores:titanium_hoe"
+    },
+    {
+      "item": "more-ores:titanium_sword"
+    },
+    {
+      "item": "more-ores:titanium_helmet"
+    },
+    {
+      "item": "more-ores:titanium_chestplate"
+    },
+    {
+      "item": "more-ores:titanium_leggings"
+    },
+    {
+      "item": "more-ores:titanium_boots"
+    },
+    {
+      "item": "more-ores:titanium_raw"
+    },
+    {
+      "item": "more-ores:titanium_ore"
+    },
+    {
+      "item": "more-ores:deepslate_titanium_ore"
+    }
+  ],
+  "result": {
+    "id": "more-ores:titanium_ingot"
+  }
+}

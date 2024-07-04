@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 700,
+  "experience": 1.0,
+  "group": "steel",
+  "ingredient": {
+    "item": "more-ores:alloy_steel_block"
+  },
+  "result": {
+    "id": "more-ores:steel_block"
+  }
+}
