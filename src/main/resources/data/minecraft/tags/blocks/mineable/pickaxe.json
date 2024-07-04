@@ -1,0 +1,85 @@
+{
+  "values": [
+    "more-ores:aluminium_block",
+    "more-ores:aluminium_ore_block",
+    "more-ores:aluminium_ore",
+    "more-ores:deepslate_aluminium_ore",
+
+    "more-ores:tin_block",
+    "more-ores:tin_ore_block",
+    "more-ores:tin_ore",
+    "more-ores:deepslate_tin_ore",
+
+    "more-ores:chrome_block",
+    "more-ores:chrome_ore_block",
+    "more-ores:chrome_ore",
+    "more-ores:deepslate_chrome_ore",
+
+    "more-ores:nikel_block",
+    "more-ores:nikel_ore_block",
+    "more-ores:nikel_ore",
+    "more-ores:deepslate_nikel_ore",
+
+    "more-ores:plomb_block",
+    "more-ores:plomb_ore_block",
+    "more-ores:plomb_ore",
+    "more-ores:deepslate_plomb_ore",
+
+    "more-ores:silicon_block",
+    "more-ores:silicon_ore_block",
+    "more-ores:silicon_ore",
+    "more-ores:deepslate_silicon_ore",
+
+    "more-ores:silver_block",
+    "more-ores:silver_ore_block",
+    "more-ores:silver_ore",
+    "more-ores:deepslate_silver_ore",
+
+    "more-ores:titanium_block",
+    "more-ores:titanium_ore_block",
+    "more-ores:titanium_ore",
+    "more-ores:deepslate_titanium_ore",
+
+    "more-ores:zinc_block",
+    "more-ores:zinc_ore_block",
+    "more-ores:zinc_ore",
+    "more-ores:deepslate_zinc_ore",
+
+    "more-ores:sodium_block",
+    "more-ores:deepslate_salt_ore",
+    "more-ores:salt_ore",
+    "more-ores:salt_block",
+
+    "more-ores:deepslate_arsenic_ore",
+    "more-ores:arsenic_ore",
+    "more-ores:arsenic_block",
+
+    "more-ores:deepslate_lithium_ore",
+    "more-ores:lithium_ore",
+    "more-ores:lithium_ore_block",
+    "more-ores:lithium_block",
+
+
+    "more-ores:bronze_block",
+    "more-ores:alloy_bronze_block",
+    "more-ores:alloy_steel_block",
+    "more-ores:steel_block",
+
+
+    "more-ores:basalt_volcanite_ore",
+    "more-ores:blackstone_volcanite_ore",
+    "more-ores:volcanite_block",
+    "more-ores:volcanite_ore_block",
+
+    "more-ores:racknite_ore",
+    "more-ores:racknite_ore_block",
+    "more-ores:racknite_block",
+
+    "more-ores:enderite_ore",
+    "more-ores:enderite_ore_block",
+    "more-ores:enderite_block",
+
+    "more-ores:soulrite_ore_block",
+    "more-ores:soulrite_block"
+  ]
+}
