@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "more-ores:chrome_ingot"
+    }
+  },
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "more-ores:chrome_sword"
+  },
+  "show_notification": true
+}
