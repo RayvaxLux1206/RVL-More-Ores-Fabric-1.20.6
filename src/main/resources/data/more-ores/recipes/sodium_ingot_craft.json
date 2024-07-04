@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "aluminium",
+  "ingredients": [
+    {
+      "item": "more-ores:sodium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "more-ores:sodium_ingot"
+  }
+}

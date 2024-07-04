@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "aluminium",
+  "ingredients": [
+    {
+      "item": "more-ores:racknite_ore_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "more-ores:racknite_raw"
+  }
+}

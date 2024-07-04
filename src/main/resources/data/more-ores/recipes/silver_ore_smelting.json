@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "aluminium",
+  "ingredient": [
+    {
+      "item": "more-ores:silver_pickaxe"
+    },
+    {
+      "item": "more-ores:silver_shovel"
+    },
+    {
+      "item": "more-ores:silver_axe"
+    },
+    {
+      "item": "more-ores:silver_hoe"
+    },
+    {
+      "item": "more-ores:silver_sword"
+    },
+    {
+      "item": "more-ores:silver_helmet"
+    },
+    {
+      "item": "more-ores:silver_chestplate"
+    },
+    {
+      "item": "more-ores:silver_leggings"
+    },
+    {
+      "item": "more-ores:silver_boots"
+    },
+    {
+      "item": "more-ores:silver_raw"
+    },
+    {
+      "item": "more-ores:silver_ore"
+    },
+    {
+      "item": "more-ores:deepslate_silver_ore"
+    }
+  ],
+
+  "result": {
+    "id": "more-ores:silver_ingot"
+  }
+}

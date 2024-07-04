@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 700,
+  "experience": 0.1,
+  "group": "aluminium",
+  "ingredient": {
+    "item": "more-ores:soulrite_ore_block"
+  },
+
+  "result": {
+    "id": "more-ores:soulrite_block"
+  }
+}
