@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "more-ores:block/volcanite_ore_block"
+    }
+  }
+}

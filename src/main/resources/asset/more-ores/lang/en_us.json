@@ -1,0 +1,298 @@
+{
+  "item.more-ores.aluminium_ingot": "Aluminium Ingot",
+  "item.more-ores.aluminium_raw": "Raw Aluminium",
+  "item.more-ores.tin_ingot": "Tin Ingot",
+  "item.more-ores.tin_raw": "Raw Tin",
+  "item.more-ores.bronze_ingot": "Bronze Ingot",
+  "item.more-ores.bronze_alloy": "Bronze Alloy",
+  "item.more-ores.steel_ingot": "Steel Ingot",
+  "item.more-ores.steel_alloy": "Steel Alloy",
+  "item.more-ores.chrome_ingot": "Chrome Ingot",
+  "item.more-ores.chrome_raw": "Raw Chrome",
+  "item.more-ores.nikel_ingot": "Nickel Ingot",
+  "item.more-ores.nikel_raw": "Raw Nickel",
+  "item.more-ores.plomb_ingot": "Plomb Ingot",
+  "item.more-ores.plomb_raw": "Raw Plomb",
+  "item.more-ores.silicon_ingot": "Silicon Ingot",
+  "item.more-ores.silicon_raw": "Raw Silicon",
+  "item.more-ores.silver_ingot": "Silver Ingot",
+  "item.more-ores.silver_raw": "Raw Silver",
+  "item.more-ores.titanium_ingot": "Titanium Ingot",
+  "item.more-ores.titanium_raw": "Raw Titanium",
+  "item.more-ores.zinc_ingot": "Zinc Ingot",
+  "item.more-ores.zinc_raw": "Raw Zinc",
+
+  "item.more-ores.volcanite_ingot": "Volcanite Ingot",
+  "item.more-ores.volcanite_raw": "Raw Volcanite",
+  "item.more-ores.soulrite_ingot": "Soulrite Ingot",
+  "item.more-ores.soulrite_raw": "Raw Soulrite",
+  "item.more-ores.racknite_ingot": "Racknite Ingot",
+  "item.more-ores.racknite_raw": "Raw Racknite",
+  "item.more-ores.enderite_ingot": "Enderite Ingot",
+  "item.more-ores.enderite_raw": "Raw Enderite",
+
+  "item.more-ores.salt": "Salt",
+  "item.more-ores.arsenic": "Arsenic",
+  "item.more-ores.sodium_ingot": "Sodium Ingot",
+  "item.more-ores.lithium_ingot": "Lithium Ingot",
+  "item.more-ores.lithium_raw": "Lithium Raw",
+
+  "item.more-ores.aluminium_helmet": "Aluminium Helmet",
+  "item.more-ores.aluminium_chestplate": "Aluminium Chestplate",
+  "item.more-ores.aluminium_leggings": "Aluminium leggings",
+  "item.more-ores.aluminium_boots": "Aluminium Boots",
+
+  "item.more-ores.aluminium_pickaxe": "Aluminium Pickaxe",
+  "item.more-ores.aluminium_shovel": "Aluminium Shovel",
+  "item.more-ores.aluminium_axe": "Aluminium Axe",
+  "item.more-ores.aluminium_hoe": "Aluminium Hoe",
+  "item.more-ores.aluminium_sword": "Aluminium Sword",
+
+  "item.more-ores.tin_helmet": "Tin Helmet",
+  "item.more-ores.tin_chestplate": "Tin Chestplate",
+  "item.more-ores.tin_leggings": "Tin leggings",
+  "item.more-ores.tin_boots": "Tin Boots",
+
+  "item.more-ores.tin_pickaxe": "Tin Pickaxe",
+  "item.more-ores.tin_shovel": "Tin Shovel",
+  "item.more-ores.tin_axe": "Tin Axe",
+  "item.more-ores.tin_hoe": "Tin Hoe",
+  "item.more-ores.tin_sword": "Tin Sword",
+
+  "item.more-ores.bronze_helmet": "Bronze Helmet",
+  "item.more-ores.bronze_chestplate": "Bronze Chestplate",
+  "item.more-ores.bronze_leggings": "Bronze leggings",
+  "item.more-ores.bronze_boots": "Bronze Boots",
+
+  "item.more-ores.bronze_pickaxe": "Bronze Pickaxe",
+  "item.more-ores.bronze_shovel": "Bronze Shovel",
+  "item.more-ores.bronze_axe": "Bronze Axe",
+  "item.more-ores.bronze_hoe": "Bronze Hoe",
+  "item.more-ores.bronze_sword": "Bronze Sword",
+
+  "item.more-ores.steel_helmet": "Steel Helmet",
+  "item.more-ores.steel_chestplate": "Steel Chestplate",
+  "item.more-ores.steel_leggings": "Steel leggings",
+  "item.more-ores.steel_boots": "Steel Boots",
+
+  "item.more-ores.steel_pickaxe": "Steel Pickaxe",
+  "item.more-ores.steel_shovel": "Steel Shovel",
+  "item.more-ores.steel_axe": "Steel Axe",
+  "item.more-ores.steel_hoe": "Steel Hoe",
+  "item.more-ores.steel_sword": "Steel Sword",
+
+  "item.more-ores.chrome_helmet": "Chrome Helmet",
+  "item.more-ores.chrome_chestplate": "Chrome Chestplate",
+  "item.more-ores.chrome_leggings": "Chrome leggings",
+  "item.more-ores.chrome_boots": "Chrome Boots",
+
+  "item.more-ores.chrome_pickaxe": "Chrome Pickaxe",
+  "item.more-ores.chrome_shovel": "Chrome Shovel",
+  "item.more-ores.chrome_axe": "Chrome Axe",
+  "item.more-ores.chrome_hoe": "Chrome Hoe",
+  "item.more-ores.chrome_sword": "Chrome Sword",
+  
+  "item.more-ores.nickel_helmet": "Nickel Helmet",
+  "item.more-ores.nickel_chestplate": "Nickel Chestplate",
+  "item.more-ores.nickel_leggings": "Nickel leggings",
+  "item.more-ores.nickel_boots": "Nickel Boots",
+
+  "item.more-ores.nickel_pickaxe": "Nickel Pickaxe",
+  "item.more-ores.nickel_shovel": "Nickel Shovel",
+  "item.more-ores.nickel_axe": "Nickel Axe",
+  "item.more-ores.nickel_hoe": "Nickel Hoe",
+  "item.more-ores.nickel_sword": "Nickel Sword",
+  
+  "item.more-ores.plomb_helmet": "Plomb Helmet",
+  "item.more-ores.plomb_chestplate": "Plomb Chestplate",
+  "item.more-ores.plomb_leggings": "Plomb leggings",
+  "item.more-ores.plomb_boots": "Plomb Boots",
+
+  "item.more-ores.plomb_pickaxe": "Plomb Pickaxe",
+  "item.more-ores.plomb_shovel": "Plomb Shovel",
+  "item.more-ores.plomb_axe": "Plomb Axe",
+  "item.more-ores.plomb_hoe": "Plomb Hoe",
+  "item.more-ores.plomb_sword": "Plomb Sword",
+  
+  "item.more-ores.silicon_helmet": "Silicon Helmet",
+  "item.more-ores.silicon_chestplate": "Silicon Chestplate",
+  "item.more-ores.silicon_leggings": "Silicon leggings",
+  "item.more-ores.silicon_boots": "Silicon Boots",
+
+  "item.more-ores.silicon_pickaxe": "Silicon Pickaxe",
+  "item.more-ores.silicon_shovel": "Silicon Shovel",
+  "item.more-ores.silicon_axe": "Silicon Axe",
+  "item.more-ores.silicon_hoe": "Silicon Hoe",
+  "item.more-ores.silicon_sword": "Silicon Sword",
+  
+  "item.more-ores.silver_helmet": "Silver Helmet",
+  "item.more-ores.silver_chestplate": "Silver Chestplate",
+  "item.more-ores.silver_leggings": "Silver leggings",
+  "item.more-ores.silver_boots": "Silver Boots",
+
+  "item.more-ores.silver_pickaxe": "Silver Pickaxe",
+  "item.more-ores.silver_shovel": "Silver Shovel",
+  "item.more-ores.silver_axe": "Silver Axe",
+  "item.more-ores.silver_hoe": "Silver Hoe",
+  "item.more-ores.silver_sword": "Silver Sword",
+  
+  "item.more-ores.titanium_helmet": "Titanium Helmet",
+  "item.more-ores.titanium_chestplate": "Titanium Chestplate",
+  "item.more-ores.titanium_leggings": "Titanium leggings",
+  "item.more-ores.titanium_boots": "Titanium Boots",
+
+  "item.more-ores.titanium_pickaxe": "Titanium Pickaxe",
+  "item.more-ores.titanium_shovel": "Titanium Shovel",
+  "item.more-ores.titanium_axe": "Titanium Axe",
+  "item.more-ores.titanium_hoe": "Titanium Hoe",
+  "item.more-ores.titanium_sword": "Titanium Sword",
+
+  "item.more-ores.zinc_helmet": "Zinc Helmet",
+  "item.more-ores.zinc_chestplate": "Zinc Chestplate",
+  "item.more-ores.zinc_leggings": "Zinc leggings",
+  "item.more-ores.zinc_boots": "Zinc Boots",
+
+  "item.more-ores.zinc_pickaxe": "Zinc Pickaxe",
+  "item.more-ores.zinc_shovel": "Zinc Shovel",
+  "item.more-ores.zinc_axe": "Zinc Axe",
+  "item.more-ores.zinc_hoe": "Zinc Hoe",
+  "item.more-ores.zinc_sword": "Zinc Sword",
+
+  "item.more-ores.volcanite_helmet": "Volcanite Helmet",
+  "item.more-ores.volcanite_chestplate": "Volcanite Chestplate",
+  "item.more-ores.volcanite_leggings": "Volcanite leggings",
+  "item.more-ores.volcanite_boots": "Volcanite Boots",
+
+  "item.more-ores.volcanite_pickaxe": "Volcanite Pickaxe",
+  "item.more-ores.volcanite_shovel": "Volcanite Shovel",
+  "item.more-ores.volcanite_axe": "Volcanite Axe",
+  "item.more-ores.volcanite_hoe": "Volcanite Hoe",
+  "item.more-ores.volcanite_sword": "Volcanite Sword",
+
+  "item.more-ores.soulrite_helmet": "Soulrite Helmet",
+  "item.more-ores.soulrite_chestplate": "Soulrite Chestplate",
+  "item.more-ores.soulrite_leggings": "Soulrite leggings",
+  "item.more-ores.soulrite_boots": "Soulrite Boots",
+
+  "item.more-ores.soulrite_pickaxe": "Soulrite Pickaxe",
+  "item.more-ores.soulrite_shovel": "Soulrite Shovel",
+  "item.more-ores.soulrite_axe": "Soulrite Axe",
+  "item.more-ores.soulrite_hoe": "Soulrite Hoe",
+  "item.more-ores.soulrite_sword": "Soulrite Sword",
+
+  "item.more-ores.racknite_helmet": "Racknite Helmet",
+  "item.more-ores.racknite_chestplate": "Racknite Chestplate",
+  "item.more-ores.racknite_leggings": "Racknite leggings",
+  "item.more-ores.racknite_boots": "Racknite Boots",
+
+  "item.more-ores.racknite_pickaxe": "Racknite Pickaxe",
+  "item.more-ores.racknite_shovel": "Racknite Shovel",
+  "item.more-ores.racknite_axe": "Racknite Axe",
+  "item.more-ores.racknite_hoe": "Racknite Hoe",
+  "item.more-ores.racknite_sword": "Racknite Sword",
+
+  "item.more-ores.enderite_helmet": "Enderite Helmet",
+  "item.more-ores.enderite_chestplate": "Enderite Chestplate",
+  "item.more-ores.enderite_leggings": "Enderite leggings",
+  "item.more-ores.enderite_boots": "Enderite Boots",
+
+  "item.more-ores.enderite_pickaxe": "Enderite Pickaxe",
+  "item.more-ores.enderite_shovel": "Enderite Shovel",
+  "item.more-ores.enderite_axe": "Enderite Axe",
+  "item.more-ores.enderite_hoe": "Enderite Hoe",
+  "item.more-ores.enderite_sword": "Enderite Sword",
+  
+  
+
+
+
+
+  "block.more-ores.aluminium_block": "Block Of Aluminium",
+  "block.more-ores.aluminium_ore": "Aluminium Ore",
+  "block.more-ores.deepslate_aluminium_ore": "Deepslate Aluminium Ore",
+  "block.more-ores.aluminium_ore_block": "Block Of Raw Aluminium",
+  
+  "block.more-ores.tin_block": "Block Of Tin",
+  "block.more-ores.tin_ore": "Tin Ore",
+  "block.more-ores.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.more-ores.tin_ore_block": "Block Of Raw Tin",
+  
+  "block.more-ores.bronze_block": "Block Of Bronze",
+  "block.more-ores.alloy_bronze_block": "Block Of Bronze Alloy",
+  
+  "block.more-ores.steel_block": "Block Of Steel",
+  "block.more-ores.alloy_steel_block": "Block Of Steel Alloy",
+  
+  "block.more-ores.chrome_block": "Block Of Chrome",
+  "block.more-ores.chrome_ore": "Chrome Ore",
+  "block.more-ores.deepslate_chrome_ore": "Deepslate Chrome Ore",
+  "block.more-ores.chrome_ore_block": "Block Of Raw Chrome",
+  
+  "block.more-ores.nikel_block": "Block Of Nikel",
+  "block.more-ores.nikel_ore": "Nikel Ore",
+  "block.more-ores.deepslate_nikel_ore": "Deepslate Nikel Ore",
+  "block.more-ores.nikel_ore_block": "Block Of Raw Nikel",
+  
+  "block.more-ores.plomb_block": "Block Of Plomb",
+  "block.more-ores.plomb_ore": "Plomb Ore",
+  "block.more-ores.deepslate_plomb_ore": "Deepslate Plomb Ore",
+  "block.more-ores.plomb_ore_block": "Block Of Raw Plomb",
+  
+  "block.more-ores.silicon_block": "Block Of Silicon",
+  "block.more-ores.silicon_ore": "Silicon Ore",
+  "block.more-ores.deepslate_silicon_ore": "Deepslate Silicon Ore",
+  "block.more-ores.silicon_ore_block": "Block Of Raw Silicon",
+  
+  "block.more-ores.silver_block": "Block Of Silver",
+  "block.more-ores.silver_ore": "Silver Ore",
+  "block.more-ores.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.more-ores.silver_ore_block": "Block Of Raw Silver",
+  
+  "block.more-ores.titanium_block": "Block Of Titanium",
+  "block.more-ores.titanium_ore": "Titanium Ore",
+  "block.more-ores.deepslate_titanium_ore": "Deepslate Titanium Ore",
+  "block.more-ores.titanium_ore_block": "Block Of Raw Titanium",
+  
+  "block.more-ores.zinc_block": "Block Of Zinc",
+  "block.more-ores.zinc_ore": "Zinc Ore",
+  "block.more-ores.deepslate_zinc_ore": "Deepslate Zinc Ore",
+  "block.more-ores.zinc_ore_block": "Block Of Raw Zinc",
+  
+  "block.more-ores.salt_ore": "Salt Ore",
+  "block.more-ores.deepslate_salt_ore": "Deepslate Salt Ore",
+  "block.more-ores.salt_block": "Block Of Salt",
+  "block.more-ores.sodium_block": "Block Of Sodium",
+  
+  "block.more-ores.arsenic_ore": "Arsenic Ore",
+  "block.more-ores.deepslate_arsenic_ore": "Deepslate Arsenic Ore",
+  "block.more-ores.arsenic_block": "Arsenic Block",
+  
+  "block.more-ores.lithium_ore": "Lithium Ore",
+  "block.more-ores.deepslate_lithium_ore": "Deepslate Lithium Ore",
+  "block.more-ores.lithium_block": "Block Of Lithium",
+  "block.more-ores.lithium_ore_block": "Block Of Raw Lithium",
+
+  "block.more-ores.basalt_volcanite_ore": "Basalt Volcanite Ore",
+  "block.more-ores.blackstone_volcanite_ore": "Blackstone Volcanite Ore",
+  "block.more-ores.volcanite_block": "Block Of Volcanite",
+  "block.more-ores.volcanite_ore_block": "Block Of Raw Volcanite",
+
+  "block.more-ores.soul_sand_soulrite_ore": "Soul Sand Soulrite Ore",
+  "block.more-ores.soul_soil_soulrite_ore": "Soul Soil Soulrite Ore",
+  "block.more-ores.soulrite_block": "Block Of Soulrite",
+  "block.more-ores.soulrite_ore_block": "Block Of Raw Soulrite",
+
+  "block.more-ores.racknite_ore": "Racknite Ore",
+  "block.more-ores.racknite_block": "Block Of Racknite",
+  "block.more-ores.racknite_ore_block": "Block Of Raw Racknite",
+
+  "block.more-ores.enderite_ore": "Enderite Ore",
+  "block.more-ores.enderite_block": "Block Of Enderite",
+  "block.more-ores.enderite_ore_block": "Block Of Raw Enderite",
+
+
+
+  "itemgroup.overworld_ores": "Overworld Materials",
+  "itemgroup.otherworld_ores": "Otherworld Materials",
+  "itemgroup.more-ores_equipement": "More Ores Equipement"
+}
