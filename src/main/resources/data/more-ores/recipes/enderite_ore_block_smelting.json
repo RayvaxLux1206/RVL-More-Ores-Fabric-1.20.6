@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 1400,
+  "experience": 0.1,
+  "group": "aluminium",
+  "ingredient": {
+    "item": "more-ores:enderite_ore_block"
+  },
+
+  "result": {
+    "id": "more-ores:enderite_block"
+  }
+}

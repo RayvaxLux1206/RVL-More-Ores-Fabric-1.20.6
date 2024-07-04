@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "aluminium",
+  "ingredient": [
+    {
+      "item": "more-ores:lithium_raw"
+    },
+    {
+      "item": "more-ores:lithium_ore"
+    },
+    {
+      "item": "more-ores:deepslate_lithium_ore"
+    }
+  ],
+
+  "result": {
+    "id": "more-ores:lithium_ingot"
+  }
+}

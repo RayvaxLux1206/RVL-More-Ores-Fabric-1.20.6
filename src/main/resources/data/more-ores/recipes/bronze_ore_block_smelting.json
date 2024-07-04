@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 1400,
+  "experience": 1.0,
+  "group": "bronze",
+  "ingredient": {
+    "item": "more-ores:alloy_bronze_block"
+  },
+  "result": {
+    "id": "more-ores:bronze_block"
+  }
+}
