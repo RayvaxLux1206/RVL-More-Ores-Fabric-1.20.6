@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "more-ores:block/basalt_top_volcanite_ore",
-    "side": "more-ores:block/basalt_side_volcanite_ore"
-  }
-}
